@@ -1,0 +1,38 @@
+
+    # Title
+    
+    Test of automaticly updated curated research papers list.
+    
+    ### Articles on psychology and artificial intersection:
+    - 2019-09-17 [The Explanation Explaining Machine Learning Models with Cooperative Game Theory](https://arxiv.org/pdf/1909.08128)
+    - 2019-09-05 [What can computational models learn from human selective A review from an audiovisual crossmodal perspective](https://arxiv.org/pdf/1909.05654)
+    - 2019-07-22 [Emotion Detection in Focusing on Latent Representation](https://arxiv.org/pdf/1907.09369)
+    - 2019-07-03 [Machine learning and behavioral economics for personalized choice architecture](https://arxiv.org/pdf/1907.02100)
+    - 2019-03-25 [Computational and Robotic Models of Early Language A Review](https://arxiv.org/pdf/1903.10246)
+    - 2019-03-01 [A Behavioral Approach to Visual Navigation with Graph Localization Networks](https://arxiv.org/pdf/1903.00445)
+    - 2019-01-19 [Can Autism be Catered with Artificial Intervention A Literature Review](https://arxiv.org/pdf/1803.05181)
+    - 2018-12-21 [Optimizing Agent Behavior over Long Time Scales by Transporting Value](https://arxiv.org/pdf/1810.06721)
+    - 2018-12-18 [temporal history optimal slicing of the past in an uncertain world](https://arxiv.org/pdf/1712.07165)
+    - 2018-10-17 [A Flexible Augmentation of the Student Education Process](https://arxiv.org/pdf/1810.09845)
+    - 2018-10-03 [Autonomous Vehicle Principles of Effective Shared Autonomy](https://arxiv.org/pdf/1810.01835)
+    - 2018-10-01 [The Profiling Active Generalization over Knowledge](https://arxiv.org/pdf/1810.00782)
+    - 2018-07-20 [A Dataset and Architecture for Visual Reasoning with a Working Memory](https://arxiv.org/pdf/1803.06092)
+    - 2018-06-27 [A review of possible effects of cognitive biases on interpretation of machine learning models](https://arxiv.org/pdf/1804.02969)
+    - 2018-06-18 [Computational Theories of Learning](https://arxiv.org/pdf/1802.10546)
+    - 2018-06-16 [Biased Embeddings from Wild Understanding and Removing](https://arxiv.org/pdf/1806.06301)
+    - 2018-06-04 [Learning from Exemplars and Prototypes in Machine Learning and Psychology](https://arxiv.org/pdf/1806.01130)
+    - 2018-06-01 [Integrating Episodic Memory into a Reinforcement Learning Agent using Reservoir Sampling](https://arxiv.org/pdf/1806.00540)
+    - 2018-05-27 [Doing the Why neural networks can be trained at all](https://arxiv.org/pdf/1805.04928)
+    - 2018-03-28 [Unsupervised Predictive Memory in a Agent](https://arxiv.org/pdf/1803.10760)
+    - 2018-02-07 [Applying Cooperative Machine Learning to Speed Up the Annotation of Social Signals in Large Corpora](https://arxiv.org/pdf/1802.02565)
+    - 2018-02-05 [Dream Formulations and Deep Neural Humanistic Themes in the Iconology of the Image](https://arxiv.org/pdf/1802.01274)
+    - 2017-12-21 [Participatory Urban Simulation through Inverse Reinforcement Learning](https://arxiv.org/pdf/1712.07887)
+    - 2017-08-18 [Learning to Transfer](https://arxiv.org/pdf/1708.05629)
+    - 2017-05-25 [Semantics derived automatically from language corpora contain biases](https://arxiv.org/pdf/1608.07187)
+    - 2016-11-02 [Building Machines That Learn and Think Like People](https://arxiv.org/pdf/1604.00289)
+    - 2016-06-09 [Decoy Bandits Dueling on a Poset](https://arxiv.org/pdf/1602.02706)
+    - 2015-02-16 [Computational Curiosity Book](https://arxiv.org/pdf/1502.04780)
+    - 2014-08-09 [Gaussian Process Structural Equation Models with Latent Variables](https://arxiv.org/pdf/1408.2042)
+    - 2012-10-16 [A new Bayesian model for polychotomous data](https://arxiv.org/pdf/1210.4844)
+    - 1996-04-30 [Reinforcement A Survey](https://arxiv.org/pdf/cs/9605103)
+    
